@@ -1,12 +1,18 @@
-# FCUP_MasterThesisTemplate
-Template in latex of the Master's Thesis
+### FCUP_MasterThesisTemplate ###
 
-To everyone that wants to use latex to write the thesis, FCUP only gives a powerpoint template to make the cover, as such I show you a trick  to put the cover in  latex.
+# Template in latex of the Master's Thesis of FCUP #
 
-Steps:
+At start FCUP only gives a powerpoint template to make the cover, as such I show you a trick to put the cover in latex. 
 
-1)Use powerpoint to make the cover and save the result as pdf.
+*1)* Use powerpoint to make the cover and save the result as pdf.
 
-2)Import the pdf files to latex (check the .tex file for the code).
+*2)* Import the pdf files to latex (check the .tex file for the code).
 
-3)Covers are now made, you can now write the rest of the thesis.
+*3)* Covers are now made, you can now write the rest of the thesis.
+
+
+I also give you 2 versions of the thesis template that I believe it is explained by its titles. 
+
+The *Color_template* gives you a pretty version the thesis where the bibliography, links, and other stuff are printed in colors, while in the *BlackWhite_template* only the picture you put in your thesis are shown in colors. 
+
+
