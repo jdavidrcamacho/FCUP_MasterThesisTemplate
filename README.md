@@ -17,4 +17,8 @@ At start FCUP only gives a powerpoint template to make the cover, as such I show
 
 The *Color_template* gives you a pretty version the thesis where the bibliography, links, and other stuff are printed in colors, while in the *BlackWhite_template* only the picture you put in your thesis are shown in colors. 
 
+▒ FAQ
 
+Yes, the ThesisClass.cls file is needed, it is where all the details of the thesis template are.
+
+Yes. the bibliograpgy.bib file is needed, it is where you put your bibliography, I kept mine on it to used as example.
