@@ -21,4 +21,4 @@ The *Color_template* gives you a pretty version the thesis where the bibliograph
 
 Yes, the ThesisClass.cls file is needed, it is where all the details of the thesis template are.
 
-Yes. the bibliograpgy.bib file is needed, it is where you put your bibliography, I kept mine on it to used as example.
+Yes. the bibliograpgy.bib file is needed, it is where you put your bibliography, I kept mine on it to be used as example.
