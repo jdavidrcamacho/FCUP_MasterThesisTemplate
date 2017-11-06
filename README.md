@@ -1,8 +1,10 @@
-### FCUP_MasterThesisTemplate ###
+# FCUP_MasterThesisTemplate #
 
-# Template in latex of the Master's Thesis of FCUP #
+### Template in latex of the Master's Thesis of FCUP ###
 
-At start FCUP only gives a powerpoint template to make the cover, as such I show you a trick to put the cover in latex. 
+If you are here it means you are now trying to write your first thesis, congrats!
+
+At start FCUP only gives a powerpoint template to make the cover, as such I show you a trick to put the cover in latex. (No! I will not help you if you are using Word, grow up and use latex!) 
 
 *1)* Use powerpoint to make the cover and save the result as pdf.
 
