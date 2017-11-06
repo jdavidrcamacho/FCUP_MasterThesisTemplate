@@ -15,7 +15,7 @@ At start FCUP only gives a powerpoint template to make the cover, as such I show
 
 ▒ I also give you 2 versions of the thesis template that I believe it is explained by its titles. 
 
-The *Color_template* gives you a pretty version the thesis where the bibliography, links, and other stuff are printed in colors, while in the *BlackWhite_template* only the picture you put in your thesis are shown in colors. 
+The *Color_template* gives you a pretty version the thesis where the bibliography, links, and other stuff are printed in colors, while in the *BlackWhite_template* only the pictures you put in your thesis are shown in colors. 
 
 ▒ FAQ
 
